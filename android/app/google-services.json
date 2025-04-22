@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443807129948",
+    "project_id": "varification-66368",
+    "storage_bucket": "varification-66368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443807129948:android:ac5ac3eefc640ca3cda199",
+        "android_client_info": {
+          "package_name": "com.example.varufucation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNF9YMdvNdRrB8trBiYc_-db6mJgsSrmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
